@@ -1,6 +1,7 @@
 # PyBer_Analysis
 
-## Overview of analysis: Looking at PyBer ride-sharing data by city type (rural, suburban, and urban areas) to determine total fares in the first quarter of 2019; and to make any improvements on average fares for customers and employees.
+## Overview of analysis: 
+Looking at PyBer ride-sharing data by city type (rural, suburban, and urban areas) to determine total fares in the first quarter of 2019; and to make any improvements on average fares for customers and employees.
 
 ## Results:
 According to the ride-sharing data, cities in Rural areas brought in the lowest total rides, drivers and fares; however, the highest in average fare per ride and average fare per driver in the first quarter of 2019.
